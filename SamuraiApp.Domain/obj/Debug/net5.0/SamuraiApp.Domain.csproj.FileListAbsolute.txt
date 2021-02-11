@@ -1,0 +1,15 @@
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.deps.json
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.dll
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\bin\Debug\net5.0\ref\SamuraiApp.Domain.dll
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.pdb
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.dll
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\ref\SamuraiApp.Domain.dll
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.pdb
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.csprojAssemblyReference.cache
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.runtimeconfig.json
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.runtimeconfig.dev.json
+C:\Users\Roberto de León\Documents\git\EF-Core\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.genruntimeconfig.cache
